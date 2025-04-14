@@ -5,7 +5,7 @@ This repository contains an interactive Power BI dashboard for **Mobile Sales An
 ---
 
 ## Dashboard Preview
-<img src=""/>&nbsp;
+<img src="MOBILE_SALES DASHBOARD.png"/>&nbsp;
 
 ## 📌 Overview
 
@@ -23,5 +23,34 @@ The **Mobile Sales Dashboard** helps visualize key performance metrics and trend
 
 ---
 
-## 📁 Project Files
+## Sure! Here's a concise **data storytelling summary in 7-8 key points** for your **Mobile Sales Dashboard**:
+
+---
+
+## 📖 **Mobile Sales Dashboard – Data Story Summary**
+
+1. **Sales Overview:**  
+   Total revenue and units sold are tracked over time, revealing seasonal spikes during holidays and promotional periods.
+
+2. **Top Products Identified:**  
+   Flagship models from Brand X dominate in revenue, while budget-friendly options from Brand Y lead in volume.
+
+3. **Regional Insights:**  
+   Region A generates the highest revenue, but Region B shows rapid growth—highlighting areas for expansion.
+
+4. **Customer Segments:**  
+   Younger demographics prefer feature-rich phones, while older customers value durability and battery life.
+
+5. **Sales Trends Over Time:**  
+   Monthly and quarterly breakdowns show a dip in Q2, likely tied to supply chain disruptions, followed by a strong recovery.
+
+6. **Marketing Impact:**  
+   Focused campaigns in Region C led to a 15% increase in sales, proving the effectiveness of targeted promotions.
+
+7. **Inventory Optimization:**  
+   Insights enabled smarter stock distribution based on regional demand and product popularity.
+
+8. **Business Impact:**  
+   Executives gained a clear view of performance, enabling faster, data-driven decisions across sales, marketing, and operations.
+
 
