@@ -23,10 +23,6 @@ The **Mobile Sales Dashboard** helps visualize key performance metrics and trend
 
 ---
 
-## Sure! Here's a concise **data storytelling summary in 7-8 key points** for your **Mobile Sales Dashboard**:
-
----
-
 ## 📖 **Mobile Sales Dashboard – Data Story Summary**
 
 1. **Sales Overview:**  
