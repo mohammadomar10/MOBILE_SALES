@@ -23,7 +23,7 @@ The **Mobile Sales Dashboard** helps visualize key performance metrics and trend
 
 ---
 
-## 📖 **Mobile Sales Dashboard – Data Story Summary**
+## 📖 ** Data Story Summary**
 
 1. **Sales Overview:**  
    Total revenue and units sold are tracked over time, revealing seasonal spikes during holidays and promotional periods.
