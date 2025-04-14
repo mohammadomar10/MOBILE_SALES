@@ -13,7 +13,7 @@ The **Mobile Sales Dashboard** helps visualize key performance metrics and trend
 
 ---
 
-## 📊 Dashboard Insights
+## 📊 Key Features 
 
 - 📈 **Sales Performance**: Monitor total sales, revenue, and growth trends over time.
 - 🌍 **Geographic Insights**: Visual representation of sales by location or region.
